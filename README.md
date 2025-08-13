@@ -25,7 +25,6 @@
 
 - 🔧 Atuação anterior com **infraestrutura de TI**, redes e servidores  
 - ⚙️ Práticas e automações com **DevOps**  
-- 💡 Entusiasta de tecnologia, sempre aprendendo e criando projetos no tempo livre
 
 ---
 
