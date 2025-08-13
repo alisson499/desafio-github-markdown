@@ -50,4 +50,4 @@
 Sinta-se à vontade para explorar meus repositórios e projetos!
 
 
-![Alisson Ramos GitHub stats](https://github-readme-stats.vercel.app/api?username=AlissonGGR&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlissonGGR&show_icons=true&theme=dracula)
